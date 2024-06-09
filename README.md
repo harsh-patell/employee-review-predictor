@@ -1,1 +1,1 @@
-# Employer Review Predictor
+# Employer Rating Predictor
