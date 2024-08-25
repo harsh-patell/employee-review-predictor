@@ -8,4 +8,5 @@ Based on the reviews and their sentiment scores, it was observed that the worst 
 ## How to Run
 1. Clone the repository
 2. Run `pip install -r requirements.txt`
-3. Run the `main.ipynb` Jupyter notebook
+3. Unzip the files in the `data` folder (compressed due to size constraints)
+4. Run the `main.ipynb` Jupyter notebook
